@@ -1,0 +1,2471 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2025.08
+2 _TREE Ray Family Tree
+3 RIN 204017381
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 20 Nov 2025
+2 TIME 19:55:38
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I172674919584@ INDI
+1 NAME Owen /Ray/
+2 GIVN Owen
+2 SURN Ray
+1 SEX M
+1 FAMC @F36@
+1 FAMS @F26@
+1 BIRT
+2 DATE 1999
+0 @I172674919641@ INDI
+1 NAME Lisa /Edwards/
+2 GIVN Lisa
+2 SURN Edwards
+1 SEX F
+1 FAMC @F21@
+1 FAMS @F36@
+1 BIRT
+2 DATE 1970
+2 PLAC Shelbyville, Shelby, Illinois, USA
+1 RESI
+2 PLAC Shelbyville, Shelby, Illinois, USA
+0 @I172674919673@ INDI
+1 NAME Alan /Ray/
+2 GIVN Alan
+2 SURN Ray
+2 SOUR @S471144727@
+3 _APID 1,1732::60219221
+1 SEX M
+1 FAMC @F17@
+1 FAMS @F36@
+1 BIRT
+2 DATE 1969
+2 PLAC Shelbyville, Shelby, Illinois, USA
+2 SOUR @S471144727@
+3 _APID 1,1732::60219221
+1 RESI
+2 PLAC Shelbyville, Illinois, USA
+2 SOUR @S471144727@
+3 _APID 1,1732::60219221
+1 RESI
+2 PLAC Shelbyville, Shelby, Illinois, USA
+1 SOUR @S471144727@
+2 _APID 1,1732::60219221
+0 @I172674919732@ INDI
+1 NAME Sandra /Edwards/
+2 GIVN Sandra
+2 SURN Edwards
+2 SOUR @S471143623@
+3 _APID 1,1788::247144500
+1 SEX F
+1 FAMS @F21@
+1 BIRT
+2 DATE 1951
+2 PLAC Shelbyville, Shelby, Illinois, USA
+2 SOUR @S471143623@
+3 _APID 1,1788::247144500
+1 RESI
+2 DATE 1993
+2 PLAC Shelbyville, IL
+2 SOUR @S471143623@
+3 _APID 1,1788::247144500
+1 RESI
+2 PLAC Shelbyville, Shelby, Illinois, USA
+1 SOUR @S471143623@
+2 _APID 1,1788::247144500
+0 @I172674919750@ INDI
+1 NAME William /Edwards/
+2 GIVN William
+2 SURN Edwards
+1 SEX M
+1 FAMC @F48@
+1 FAMS @F21@
+1 BIRT
+2 DATE 1946
+2 PLAC Shelbyville, Shelby, Illinois, USA
+1 RESI
+2 PLAC Shelbyville, Shelby, Illinois, USA
+0 @I172674919816@ INDI
+1 NAME Carol /Ray/
+2 GIVN Carol
+2 SURN Ray
+1 SEX F
+1 FAMC @F30@
+1 FAMS @F17@
+1 BIRT
+2 DATE 1944
+2 PLAC Shelbyville, Shelby, Illinois, USA
+1 RESI
+2 PLAC Shelbyville, Shelby, Illinois, USA
+0 @I172674920073@ INDI
+1 NAME Gary /Ray/
+2 GIVN Gary
+2 SURN Ray
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F17@
+1 BIRT
+2 PLAC Illinois, USA
+1 RESI
+2 PLAC Decatur, Macon, Illinois, USA
+1 DEAT
+2 DATE 11 Jan 2018
+2 PLAC Illinois, USA
+0 @I172674931858@ INDI
+1 NAME Jesse Burrell /Ray/
+2 GIVN Jesse Burrell
+2 SURN Ray
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F1@
+1 BIRT
+2 DATE 18 Dec 1915
+2 PLAC Sullivan, Livingston, Illinois, USA
+1 DEAT
+2 DATE 09 Apr 1966
+2 PLAC Decatur, Macon, Illinois, USA
+0 @I172674931868@ INDI
+1 NAME Mildred Irene /Ladow/
+2 GIVN Mildred Irene
+2 SURN Ladow
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F1@
+1 BIRT
+2 DATE 11 Sep 1917
+2 PLAC Pana, Illinois
+1 DEAT
+2 DATE 22 Jul 1946
+2 PLAC Decatur City, Macon Co, Illinois
+1 OBJE @O35@
+2 _PRIM Y
+0 @I172674931887@ INDI
+1 NAME Earl Oscar /Ray/
+2 GIVN Earl Oscar
+2 SURN Ray
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F23@
+1 BIRT
+2 DATE 11 Jan 1891
+2 PLAC Sullivan, Moultrie, Illinois, USA
+1 DEAT
+2 DATE 13 Jul 1962
+2 PLAC Decatur, Macon, Illinois, United States
+1 OBJE @O22@
+2 _PRIM Y
+0 @I172674931902@ INDI
+1 NAME Josephine M /Johnson/ Ray
+2 GIVN Josephine M
+2 SURN Johnson
+2 NSFX Ray
+1 SEX F
+1 FAMC @F25@
+1 FAMS @F23@
+1 BIRT
+2 DATE 6-4-1895
+2 PLAC Illinois
+1 DEAT
+2 DATE 8-1975
+2 PLAC Decatur, Macon, Illinois, USA
+1 OBJE @O24@
+2 _PRIM Y
+0 @I172674931910@ INDI
+1 NAME William /Ladow/
+2 GIVN William
+2 SURN Ladow
+1 SEX M
+1 FAMS @F32@
+1 BIRT
+2 DATE 27 Jul 1876
+2 PLAC Moweaqua, Shelby, Illinois, USA
+1 DEAT
+2 DATE 1948
+2 PLAC Pana, Christian, Illinois, USA
+0 @I172674931927@ INDI
+1 NAME Mary Alice /Roland/
+2 GIVN Mary Alice
+2 SURN Roland
+1 SEX F
+1 FAMS @F32@
+1 BIRT
+2 DATE 2 Aug 1880
+2 PLAC Shelby Co , Ill
+1 DEAT
+2 DATE 27 August 1939
+2 PLAC Pana, Christian County, Illinois, United States of America
+0 @I172674931976@ INDI
+1 NAME James Beardon /Ray/
+2 GIVN James Beardon
+2 SURN Ray
+1 SEX M
+1 FAMC @F15@
+1 FAMS @F4@
+1 BIRT
+2 DATE 10 Feb 1844
+2 PLAC Memphis, Shelby, Tennessee, United States
+1 DEAT
+2 DATE 23 Dec 1908
+2 PLAC Sullivan, Livingston, Illinois, United States
+1 OBJE @O29@
+2 _PRIM Y
+0 @I172674931990@ INDI
+1 NAME Mary Martina "Tina" /Wright/
+2 GIVN Mary Martina "Tina"
+2 SURN Wright
+1 SEX F
+1 FAMS @F4@
+1 BIRT
+2 DATE 1862
+2 PLAC Illinois
+1 DEAT
+2 PLAC Illinois
+0 @I172674932925@ INDI
+1 NAME Thomas Washington /Johnson/
+2 GIVN Thomas Washington
+2 SURN Johnson
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F25@
+1 BIRT
+2 DATE 27 Feb 1857
+2 PLAC Clay County, Indiana, USA
+1 DEAT
+2 DATE 31 Mar 1931
+2 PLAC Johnathan Creek, Moultrie, Illinois
+1 OBJE @O7@
+2 _PRIM Y
+0 @I172674932931@ INDI
+1 NAME Zerilda /Bolin/
+2 GIVN Zerilda
+2 SURN Bolin
+1 SEX F
+1 FAMC @F9@
+1 FAMS @F25@
+1 BIRT
+2 DATE 4 Sep 1859
+2 PLAC Sullivan Illinois
+1 DEAT
+2 DATE 27 Jul 1906
+2 PLAC Jonathan Creek, Moultrie, Illinois, United States
+1 OBJE @O34@
+2 _PRIM Y
+0 @I172674932946@ INDI
+1 NAME Henry Burl /Johnson/
+2 GIVN Henry Burl
+2 SURN Johnson
+1 SEX M
+1 FAMS @F28@
+1 BIRT
+2 DATE 19 April 1830
+2 PLAC Botetourt County, Virginia, USA
+1 DEAT
+2 DATE 23 July 1907
+2 PLAC Sullivan, Moultrie, Illinois, USA
+1 OBJE @O31@
+2 _PRIM Y
+0 @I172674932974@ INDI
+1 NAME Katherine Ann /Myers/
+2 GIVN Katherine Ann
+2 SURN Myers
+1 SEX F
+1 FAMC @F22@
+1 FAMS @F28@
+1 BIRT
+2 DATE 13 Jan 1836
+2 PLAC Virginia
+1 DEAT
+2 DATE 21 Dec 1878
+2 PLAC Moultrie, Illinois, USA
+0 @I172674933017@ INDI
+1 NAME William B /Bolin/
+2 GIVN William B
+2 SURN Bolin
+1 SEX M
+1 FAMC @F33@
+1 FAMS @F9@
+1 BIRT
+2 DATE 26 APR 1824
+2 PLAC Wayne, Illinois, USA
+1 DEAT
+2 DATE 18 MAR 1901
+2 PLAC Jonathan Creek, Moultrie, Illinois, USA
+1 OBJE @O30@
+2 _PRIM Y
+0 @I172674933037@ INDI
+1 NAME Elizabeth Jane /Fulton/
+2 GIVN Elizabeth Jane
+2 SURN Fulton
+1 SEX F
+1 FAMS @F9@
+1 BIRT
+2 DATE 4 Jan 1828
+2 PLAC Fleming County, Kentucky, USA
+1 DEAT
+2 DATE 19 Mar 1904
+2 PLAC Jonathan Creek, Moultrie, Illinois, United States
+0 @I172674933044@ INDI
+1 NAME Philip H /Moyers\Myers/
+2 GIVN Philip H
+2 SURN Moyers\Myers
+1 SEX M
+1 FAMS @F22@
+1 BIRT
+2 DATE abt 1807
+2 PLAC Virginia
+1 DEAT
+2 DATE 30 April 1859
+2 PLAC Washington, Putnam, Indiana, USA
+1 OBJE @O9@
+2 _PRIM Y
+0 @I172674933058@ INDI
+1 NAME Mary /Hudson/
+2 GIVN Mary
+2 SURN Hudson
+1 SEX F
+1 FAMS @F22@
+1 BIRT
+2 DATE 1810
+2 PLAC Virginia
+1 DEAT
+2 DATE Abt. 1857
+2 PLAC Putnam County, Indiana, USA
+0 @I172674933066@ INDI
+1 NAME James /Bolin/
+2 GIVN James
+2 SURN Bolin
+1 SEX M
+1 FAMS @F33@
+1 BIRT
+2 DATE 02 Feb 1796
+2 PLAC Wayne County, Illinois, United States of America
+1 DEAT
+2 DATE 18 April 1847
+2 PLAC Sullivan, Moultrie County, Illinois, United States of America
+1 OBJE @O1@
+2 _PRIM Y
+0 @I172674933076@ INDI
+1 NAME NANCY SUSAN /Taylor/
+2 GIVN NANCY SUSAN
+2 SURN Taylor
+1 SEX F
+1 FAMS @F33@
+1 BIRT
+2 DATE 24 OCT 1803
+2 PLAC Ashley River, Charleston County, South Carolina
+1 DEAT
+2 DATE 08 APR 1887
+2 PLAC Jonathan Creek, Moultrie County, Illinois
+1 OBJE @O16@
+2 _PRIM Y
+0 @I172674933186@ INDI
+1 NAME Ray /Edwards/
+2 GIVN Ray
+2 SURN Edwards
+1 SEX M
+1 FAMS @F48@
+1 BIRT
+2 DATE 1925
+2 PLAC Shelbyville, Shelby, Illinois, USA
+1 DEAT
+2 DATE 2002
+2 PLAC Shelbyville, IL
+0 @I172674933348@ INDI
+1 NAME Mildred /Martin/
+2 GIVN Mildred
+2 SURN Martin
+2 SOUR @S471144790@
+3 PAGE Herald and Review; Publication Date: 7 Jan 2018; Publication Place: Decatur, Illinois, USA; URL: https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 DATA
+4 WWW https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 _APID 1,61843::660819536
+1 SEX F
+1 FAMC @F8@
+1 FAMS @F30@
+1 BIRT
+2 DATE 1920
+2 PLAC Decatur, Macon, Illinois, USA
+2 SOUR @S471144790@
+3 PAGE Herald and Review; Publication Date: 7 Jan 2018; Publication Place: Decatur, Illinois, USA; URL: https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 DATA
+4 WWW https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 _APID 1,61843::660819536
+1 MARR
+2 DATE 15 Sep 1940
+2 PLAC Warrensburg, Missouri
+2 SOUR @S471144790@
+3 PAGE Herald and Review; Publication Date: 7 Jan 2018; Publication Place: Decatur, Illinois, USA; URL: https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 DATA
+4 WWW https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 _APID 1,61843::660819536
+1 RESI
+2 PLAC Shelbyville, Shelby, Illinois, USA
+2 SOUR @S471144790@
+3 PAGE Herald and Review; Publication Date: 7 Jan 2018; Publication Place: Decatur, Illinois, USA; URL: https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 DATA
+4 WWW https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 _APID 1,61843::660819536
+1 DEAT
+2 DATE 2017
+2 PLAC Shelbyville, Shelby, Illinois, USA
+2 SOUR @S471144790@
+3 PAGE Herald and Review; Publication Date: 7 Jan 2018; Publication Place: Decatur, Illinois, USA; URL: https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 DATA
+4 WWW https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 _APID 1,61843::660819536
+1 BURI
+2 DATE 9 Jan 2018
+2 PLAC Cisne, Wayne, Illinois, USA
+2 SOUR @S471144790@
+3 PAGE Herald and Review; Publication Date: 7 Jan 2018; Publication Place: Decatur, Illinois, USA; URL: https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 DATA
+4 WWW https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+3 _APID 1,61843::660819536
+1 SOUR @S471144790@
+2 PAGE Herald and Review; Publication Date: 7 Jan 2018; Publication Place: Decatur, Illinois, USA; URL: https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+2 DATA
+3 WWW https://www.newspapers.com/image/417858235/?article=c19b69dc-e613-4264-a4e4-02081e1c9250&focus=0.16797335,0.063238785,0.64724636,0.35773635&xid=3355
+2 _APID 1,61843::660819536
+0 @I172674933457@ INDI
+1 NAME stanley /miller/
+2 GIVN stanley
+2 SURN miller
+2 SOUR @S471144800@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/204550355/stanley-k-miller
+3 _APID 1,60525::169717332
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F30@
+1 BIRT
+2 DATE 2 May 1920
+2 SOUR @S471144800@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/204550355/stanley-k-miller
+3 _APID 1,60525::169717332
+1 DEAT
+2 PLAC Shelbyville, IL
+2 SOUR @S471144800@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/204550355/stanley-k-miller
+3 _APID 1,60525::169717332
+1 BURI
+2 PLAC Shelbyville, Shelby County, Illinois, United States of America
+2 SOUR @S471144800@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/204550355/stanley-k-miller
+3 _APID 1,60525::169717332
+1 SOUR @S471144800@
+2 DATA
+3 WWW https://www.findagrave.com/memorial/204550355/stanley-k-miller
+2 _APID 1,60525::169717332
+0 @I172674933624@ INDI
+1 NAME John Allison /Ray/
+2 GIVN John Allison
+2 SURN Ray
+1 SEX M
+1 FAMC @F18@
+1 FAMS @F15@
+1 BIRT
+2 DATE 23 Feb 1804
+2 PLAC Jackson, Tennessee, USA
+1 DEAT
+2 DATE 21 Nov 1871
+2 PLAC Jackson, Tennessee, USA
+0 @I172674933637@ INDI
+1 NAME Louisa (Winny) /Sweazea/
+2 GIVN Louisa (Winny)
+2 SURN Sweazea
+1 SEX F
+1 FAMC @F40@
+1 FAMS @F15@
+1 BIRT
+2 DATE 1808
+2 PLAC Jackson, Tennessee, USA
+0 @I172674933646@ INDI
+1 NAME Joseph Annis /Ray/ Sr.
+2 GIVN Joseph Annis
+2 SURN Ray
+2 NSFX Sr.
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F18@
+1 BIRT
+2 DATE 1780
+2 PLAC Scotland
+1 DEAT
+2 DATE 21 Sep 1840
+2 PLAC Jackson County, Tennessee, USA
+1 OBJE @O8@
+2 _PRIM Y
+0 @I172674933967@ INDI
+1 NAME James Raulston (Captain) /Ray/ Sr
+2 GIVN James Raulston (Captain)
+2 SURN Ray
+2 NSFX Sr
+1 SEX M
+1 FAMC @F14@
+1 FAMS @F31@
+1 BIRT
+2 DATE 1750
+2 PLAC Orange, North Carolina, USA
+1 DEAT
+2 DATE 02 FEB 1816
+2 PLAC Wartrace Creek, Jackson, Tennessee, USA
+1 OBJE @O14@
+2 _PRIM Y
+0 @I172674933974@ INDI
+1 NAME Jane Jennet “Jenny” /Allison/
+2 GIVN Jane Jennet “Jenny”
+2 SURN Allison
+1 SEX F
+1 FAMC @F46@
+1 FAMS @F31@
+1 BIRT
+2 DATE 5 May 1755
+2 PLAC Hillsborough, Orange, North Carolina, United States
+1 DEAT
+2 DATE 3 Mar 1849
+2 PLAC Jackson, Tennessee, United States
+0 @I172674933986@ INDI
+1 NAME Kessiah /Hensley/
+2 GIVN Kessiah
+2 SURN Hensley
+1 SEX F
+1 FAMC @F50@
+1 FAMS @F18@
+1 BIRT
+2 DATE 1780
+2 PLAC Orange, North Carolina, USA
+1 DEAT
+2 DATE 27 Feb 1857
+2 PLAC Hawkins County, Tennessee, USA
+1 OBJE @O13@
+2 _PRIM Y
+0 @I172674933991@ INDI
+1 NAME Mathias /Sweazea/ Jr.
+2 GIVN Mathias
+2 SURN Sweazea
+2 NSFX Jr.
+1 SEX M
+1 FAMS @F40@
+1 BIRT
+2 DATE 1774
+2 PLAC Cumberland, PA, USA
+1 DEAT
+2 DATE 1855
+2 PLAC Jackson County, Tennessee, USA
+0 @I172674933998@ INDI
+1 NAME Anna /Dycus/
+2 GIVN Anna
+2 SURN Dycus
+1 SEX F
+1 FAMC @F52@
+1 FAMS @F40@
+1 BIRT
+2 DATE 1784
+2 PLAC Rutherford County, North Carolina, USA
+1 DEAT
+2 DATE Feb 1860
+2 PLAC Jackson County, Tennessee, USA
+0 @I172674934014@ INDI
+1 NAME Edward C /Dycus/ Jr. 
+2 GIVN Edward C
+2 SURN Dycus
+2 NSFX Jr. 
+1 SEX M
+1 FAMC @F49@
+1 FAMS @F52@
+1 BIRT
+2 DATE 27 Jan 1753
+2 PLAC Rowan, North Carolina, United States
+1 DEAT
+2 DATE 1832
+2 PLAC Jackson, Madison, Tennessee, United States
+1 OBJE @O26@
+2 _PRIM Y
+0 @I172674934023@ INDI
+1 NAME Robert Rhea /Ray/
+2 GIVN Robert Rhea
+2 SURN Ray
+1 SEX M
+1 FAMC @F43@
+1 FAMS @F14@
+1 BIRT
+2 DATE 1710
+2 PLAC Caswell, North Carolina, USA
+1 DEAT
+2 DATE July 1786
+2 PLAC Orange, North Carolina, USA
+1 OBJE @O5@
+2 _PRIM Y
+0 @I172674934056@ INDI
+1 NAME Allendar Anna /Mardock  Ray/
+2 GIVN Allendar Anna
+2 SURN Mardock  Ray
+1 SEX F
+1 FAMS @F14@
+1 BIRT
+2 DATE 1730
+2 PLAC Caswell, North Carolina, USA
+1 DEAT
+2 DATE 08 MAR 1787
+2 PLAC Orange, North Carolina, USA
+0 @I172674934076@ INDI
+1 NAME Robert Rae Rhe /Rhea/
+2 GIVN Robert Rae Rhe
+2 SURN Rhea
+1 SEX M
+1 FAMC @F45@
+1 FAMS @F43@
+1 BIRT
+2 DATE 29 Mar 1657
+2 PLAC Linlithgow, West Lothian, Scotland
+1 DEAT
+2 DATE 18 Jan 1720
+2 PLAC Freehold, Monmouth, New Jersey, United States
+1 OBJE @O32@
+2 _PRIM Y
+0 @I172674934099@ INDI
+1 NAME Robert /Rae/
+2 GIVN Robert
+2 SURN Rae
+1 SEX M
+1 FAMS @F45@
+1 BIRT
+2 DATE 1635
+2 PLAC Linlithgow, West Lothian, Scotland
+1 DEAT
+2 DATE 18 Jan 1720
+2 PLAC Monmouth County, New Jersey, The American Colonies
+1 OBJE @O33@
+2 _PRIM Y
+0 @I172674935437@ INDI
+1 NAME Edward /Dycus\Dicas/ Jr.
+2 GIVN Edward
+2 SURN Dycus\Dicas
+2 NSFX Jr.
+1 SEX M
+1 FAMC @F11@
+1 FAMS @F49@
+1 BIRT
+2 DATE 7 Sep 1735
+2 PLAC St Pauls Parish, Kent, Maryland, United States
+1 DEAT
+2 DATE 1797
+2 PLAC Tyron, Rutherford, North Carolina, United States
+0 @I172674935455@ INDI
+1 NAME Margaret Ann /Phillips/
+2 GIVN Margaret Ann
+2 SURN Phillips
+1 SEX F
+1 FAMS @F11@
+1 BIRT
+2 DATE 1709
+2 PLAC Kent County, Maryland, USA
+1 DEAT
+2 DATE 1745
+2 PLAC Kent, Maryland, American Colonies
+0 @I172674935478@ INDI
+1 NAME Edward /Dycus/ ✅
+2 GIVN Edward
+2 SURN Dycus
+2 NSFX ✅
+1 SEX M
+1 FAMS @F11@
+1 BIRT
+2 DATE 18 Sep 1708
+2 PLAC St Pauls, Kent, Maryland, British Colonies
+1 DEAT
+2 DATE 1774
+2 PLAC Tryon, Polk, North Carolina, British Colonies
+1 OBJE @O28@
+2 _PRIM Y
+0 @I172674935489@ INDI
+1 NAME John Robert /Allison/ Sr.
+2 GIVN John Robert
+2 SURN Allison
+2 NSFX Sr.
+1 SEX M
+1 FAMC @F47@
+1 FAMS @F46@
+1 BIRT
+2 DATE abt 1720
+2 PLAC Pennsylvania, Colonial America
+1 DEAT
+2 DATE Jan 1796
+2 PLAC Hillsborough, Orange, North Carolina, United States
+1 OBJE @O15@
+2 _PRIM Y
+0 @I172674935553@ INDI
+1 NAME Grizzell Grace /Wray/ 6gg
+2 GIVN Grizzell Grace
+2 SURN Wray
+2 NSFX 6gg
+1 SEX F
+1 FAMS @F47@
+1 BIRT
+2 DATE 16 Mar 1694
+2 PLAC Haddington, East Lothian, Scotland
+1 DEAT
+2 DATE 20 Jan 1794
+2 PLAC Hillsborough, Orange, North Carolina, USA
+1 OBJE @O17@
+2 _PRIM Y
+0 @I172720211891@ INDI
+1 NAME Lloyd Omspough /Miller/
+2 GIVN Lloyd Omspough
+2 SURN Miller
+1 SEX M
+1 FAMC @F20@
+1 FAMS @F2@
+1 BIRT
+2 DATE 26 October 1895
+2 PLAC Shelbyville Township, Shelby, Illinois, United States
+1 DEAT
+2 DATE 28 Aug 1938
+2 PLAC Shelbyville, Shelby, Illinois, USA
+0 @I172720211909@ INDI
+1 NAME Icie Mabel /Yakey/
+2 GIVN Icie Mabel
+2 SURN Yakey
+1 SEX F
+1 FAMS @F2@
+1 BIRT
+2 DATE 20 September 1899
+2 PLAC Shelby, Illinois, United States
+1 DEAT
+2 DATE 29 SEP 1969
+2 PLAC Shelbyville, Shelby, Illinois
+0 @I172720211919@ INDI
+1 NAME Loy E /Martin/
+2 GIVN Loy E
+2 SURN Martin
+1 SEX M
+1 FAMC @F34@
+1 FAMS @F8@
+1 BIRT
+2 DATE 1 Jan 1893
+2 PLAC Shelby, Illinois
+1 DEAT
+2 DATE 1964
+2 PLAC Shelby Co., Illinois
+0 @I172720211927@ INDI
+1 NAME Alta Hannah /Skiff/
+2 GIVN Alta Hannah
+2 SURN Skiff
+1 SEX F
+1 FAMS @F8@
+1 BIRT
+2 DATE 12 Oct 1894
+2 PLAC Moweaqua, Shelby, Illinois, USA
+1 DEAT
+2 DATE 27 Sep 1985
+2 PLAC Shelbyville, Shelby, Illinois, USA
+0 @I172720211943@ INDI
+1 NAME Charles Elmer /MILLER/
+2 GIVN Charles Elmer
+2 SURN MILLER
+1 SEX M
+1 FAMS @F20@
+1 BIRT
+2 DATE 6 Feb 1872
+2 PLAC , Shelby, Illinois, USA
+1 DEAT
+2 DATE 26 Aug 1926
+2 PLAC , Shelby, Illinois, USA
+0 @I172720211955@ INDI
+1 NAME Etta Sereptia /OMSPAUGH/
+2 GIVN Etta Sereptia
+2 SURN OMSPAUGH
+1 SEX F
+1 FAMC @F5@
+1 FAMS @F20@
+1 BIRT
+2 DATE 27 Dec 1875
+2 PLAC , Fairfield, Ohio, USA
+1 DEAT
+2 DATE 28 Feb 1935
+2 PLAC , Shelby, Illinois, USA
+0 @I172720211971@ INDI
+1 NAME William J. /Martin/
+2 GIVN William J.
+2 SURN Martin
+1 SEX M
+1 FAMS @F34@
+1 BIRT
+2 DATE 20 Jan 1865
+2 PLAC Shelby Co., Illinois
+1 DEAT
+2 DATE 12 Jan 1949
+2 PLAC Shelby Co., Illinois
+0 @I172720211984@ INDI
+1 NAME Elizabeth Ellen /Martin/
+2 GIVN Elizabeth Ellen
+2 SURN Martin
+1 SEX F
+1 FAMS @F34@
+1 BIRT
+2 DATE 20 Dec 1871
+2 PLAC Shelby Co. Illinois
+1 DEAT
+2 DATE 17 Jan 1935
+2 PLAC Shelbyville, IL
+0 @I172720212030@ INDI
+1 NAME Jesse /Omspach/
+2 GIVN Jesse
+2 SURN Omspach
+1 SEX M
+1 FAMC @F19@
+1 FAMS @F5@
+1 BIRT
+2 DATE 23 May 1842
+2 PLAC Fairfield Co, OH
+1 DEAT
+2 DATE 20 Mar 1928
+2 PLAC Shelbyville, Shelby, Illinois, United States
+0 @I172720212034@ INDI
+1 NAME Delilah /Gierhart/
+2 GIVN Delilah
+2 SURN Gierhart
+1 SEX F
+1 FAMC @F16@
+1 FAMS @F5@
+1 BIRT
+2 DATE 21 May 1843
+2 PLAC Fairfield County, Ohio
+1 DEAT
+2 DATE 3 Oct 1916
+2 PLAC Shelbyville, Shelby, Illinois, USA
+0 @I172720212050@ INDI
+1 NAME Christian /Gierhart/
+2 GIVN Christian
+2 SURN Gierhart
+1 SEX M
+1 FAMC @F13@
+1 FAMS @F16@
+1 BIRT
+2 DATE 13 Oct 1808
+2 PLAC Hagerstown, Washington, Maryland, USA
+1 DEAT
+2 DATE 21 Apr 1881
+2 PLAC Fairfield, Ohio, United States
+0 @I172720212058@ INDI
+1 NAME Catharine /Shimp/
+2 GIVN Catharine
+2 SURN Shimp
+1 SEX F
+1 FAMC @F35@
+1 FAMS @F16@
+1 BIRT
+2 DATE 22 Mar 1820
+2 PLAC Fairfield, Ohio, United States
+1 DEAT
+2 DATE 11 Apr 1898
+2 PLAC Fairfield, Ohio, United States
+0 @I172720212069@ INDI
+1 NAME Rebecca /Houser (Humrickhouser)/
+2 GIVN Rebecca
+2 SURN Houser (Humrickhouser)
+1 SEX F
+1 FAMC @F12@
+1 FAMS @F19@
+1 BIRT
+2 DATE 28 Apr 1808
+2 PLAC Liberty, Fairfield, Ohio, USA
+1 DEAT
+2 DATE 1 Nov 1855
+2 PLAC Liberty, Fairfield, Ohio, USA
+0 @I172720212099@ INDI
+1 NAME John Sr /Hensley-Henslee/
+2 GIVN John Sr
+2 SURN Hensley-Henslee
+1 SEX M
+1 FAMS @F50@
+1 BIRT
+2 DATE 1749
+2 PLAC Gouchland, Virginia, USA
+1 DEAT
+2 DATE Sep 1816
+2 PLAC , Caswell, North Carolina, USA
+1 OBJE @O4@
+2 _PRIM Y
+0 @I172720212183@ INDI
+1 NAME John (Johannes) /Humrickhouser (Houser) (Homrighouser)/
+2 GIVN John (Johannes)
+2 SURN Humrickhouser (Houser) (Homrighouser)
+1 SEX M
+1 FAMS @F12@
+1 BIRT
+2 DATE 1 May 1774
+2 PLAC Manchester Township, York, Pennsylvania Colony
+1 DEAT
+2 DATE Abt. 1817
+2 PLAC Ohio
+0 @I172720212195@ INDI
+1 NAME Dorothy /Funk/
+2 GIVN Dorothy
+2 SURN Funk
+1 SEX F
+1 FAMS @F12@
+1 BIRT
+2 DATE Abt. 1775
+0 @I172720212210@ INDI
+1 NAME Johann George /Amspacher/
+2 GIVN Johann George
+2 SURN Amspacher
+1 SEX M
+1 FAMS @F19@
+1 BIRT
+2 DATE 23 February 1802
+2 PLAC Shrewsbury Twp, York Co, PA
+1 DEAT
+2 DATE 25 December 1873
+2 PLAC Liberty Twp, Fairfield Co, OH
+0 @I172720212236@ INDI
+1 NAME Mary Elizabeth /Eckert 🧬🤔/
+2 GIVN Mary Elizabeth
+2 SURN Eckert 🧬🤔
+1 SEX F
+1 FAMS @F35@
+1 BIRT
+2 DATE 8 July 1795
+2 PLAC Germany
+1 DEAT
+2 DATE 4 July 1877
+2 PLAC Fairfield County, Ohio, United States of America
+1 OBJE @O27@
+2 _PRIM Y
+0 @I172720212253@ INDI
+1 NAME William John /Shimp/
+2 GIVN William John
+2 SURN Shimp
+1 SEX M
+1 FAMS @F35@
+1 BIRT
+2 DATE 06 Dec 1781
+2 PLAC East Cocalico, Lancaster, Pennsylvania, USA
+1 DEAT
+2 DATE 20 May 1840
+2 PLAC Fairfield County, Ohio, USA
+1 OBJE @O2@
+2 _PRIM Y
+0 @I172720212310@ INDI
+1 NAME Henrich "Henry" /Gierhart/
+2 GIVN Henrich "Henry"
+2 SURN Gierhart
+1 SEX M
+1 FAMS @F13@
+1 BIRT
+2 DATE 16 Oct 1773
+2 PLAC Washington, Maryland
+1 DEAT
+2 DATE 15 Mar 1844
+2 PLAC Fairfield, Ohio
+0 @I172720212331@ INDI
+1 NAME Mary "Magdalena" /Steece/
+2 GIVN Mary "Magdalena"
+2 SURN Steece
+1 SEX F
+1 FAMS @F13@
+1 BIRT
+2 DATE 16 Oct 1773
+2 PLAC Washington, Maryland
+1 DEAT
+2 DATE 27 Jun 1842
+2 PLAC Fairfield, Ohio
+0 @I172720212484@ INDI
+1 NAME Kacie /Collinsworth/
+2 GIVN Kacie
+2 SURN Collinsworth
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F26@
+1 BIRT
+2 DATE 12/29/2001
+2 PLAC Mattoon, Coles, Illinois, USA
+0 @I172720212551@ INDI
+1 NAME Gary /Collinsworth/
+2 GIVN Gary
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F42@
+1 FAMS @F3@
+1 BIRT
+2 DATE 9/14/1969
+2 PLAC Mattoon, Coles, Illinois, USA
+0 @I172720217808@ INDI
+1 NAME Christina Marie /Starwalt/
+2 GIVN Christina Marie
+2 SURN Starwalt
+1 SEX F
+1 FAMS @F3@
+1 BIRT
+2 DATE 9/2/1972
+2 PLAC Mattoon, Coles, Illinois, USA
+0 @I172720217913@ INDI
+1 NAME Jack /Collinsworth/
+2 GIVN Jack
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F27@
+1 FAMS @F42@
+1 BIRT
+2 DATE 12 Sep 1934
+2 PLAC Mattoon, Coles, Illinois, USA
+1 DEAT
+2 DATE 2 Aug 2022
+2 PLAC Mattoon, Coles, Illinois, USA
+1 OBJE @O21@
+2 _PRIM Y
+0 @I172720217981@ INDI
+1 NAME Paul /Collinsworth/
+2 GIVN Paul
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F7@
+1 FAMS @F27@
+1 OBJE @O19@
+2 _PRIM Y
+0 @I172720218043@ INDI
+1 NAME Nellie Alice /Graham/
+2 GIVN Nellie Alice
+2 SURN Graham
+1 SEX F
+1 FAMS @F27@
+1 BIRT
+2 DATE 21 Sep 1916
+2 PLAC Gila, Jasper County, Illinois, United States of America
+1 DEAT
+2 DATE 24 Jun 2006
+2 PLAC Flat Rock, Henderson County, North Carolina, United States of America
+0 @I172720218060@ INDI
+1 NAME William Henry /Collinsworth/
+2 GIVN William Henry
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F7@
+1 BIRT
+2 DATE 13 Feb 1872
+2 PLAC Union County, Tennessee, USA
+1 DEAT
+2 DATE 30 Jan 1945
+2 PLAC Mattoon, Coles, Illinois, USA
+0 @I172720218089@ INDI
+1 NAME Anna Cornelia /Duggins/
+2 GIVN Anna Cornelia
+2 SURN Duggins
+1 SEX F
+1 FAMS @F7@
+1 BIRT
+2 DATE 3 Apr 1875
+2 PLAC Grayson County, Kentucky, USA
+1 DEAT
+2 DATE 27 Jan 1936
+2 PLAC Mattoon, Coles, Illinois, USA
+0 @I172720218129@ INDI
+1 NAME Malinda /Cook/
+2 GIVN Malinda
+2 SURN Cook
+1 SEX F
+1 FAMS @F37@
+1 BIRT
+2 DATE 22 Jun 1832
+2 PLAC Tennessee, USA
+1 DEAT
+2 DATE 3 May 1881
+0 @I172720218160@ INDI
+1 NAME James Edmund /Collinsworth/
+2 GIVN James Edmund
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F37@
+1 BIRT
+2 DATE 12 Feb 1837
+2 PLAC Tazewell, Claiborne, Tennessee, USA
+1 DEAT
+2 DATE 5 Apr 1927
+2 PLAC McLean County, Kentucky, USA
+1 OBJE @O23@
+2 _PRIM Y
+0 @I172720218318@ INDI
+1 NAME John Henderson /Collinsworth/
+2 GIVN John Henderson
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F10@
+1 BIRT
+2 DATE 06 Jun 1807
+2 PLAC Lee, Virginia, USA
+1 DEAT
+2 DATE 14 Sep 1887
+2 PLAC Union County, Tennessee, USA
+1 OBJE @O18@
+2 _PRIM Y
+0 @I172720218338@ INDI
+1 NAME Rebecca /Clarkson/
+2 GIVN Rebecca
+2 SURN Clarkson
+1 SEX F
+1 FAMS @F10@
+1 BIRT
+2 DATE 6 December 1808
+2 PLAC Lee County, VA, USA
+1 DEAT
+2 DATE 4 September 1880
+2 PLAC Union County, TN, USA
+1 OBJE @O25@
+2 _PRIM Y
+0 @I172720218445@ INDI
+1 NAME Edmond B. /Collinsworth/
+2 GIVN Edmond B.
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F38@
+1 FAMS @F6@
+1 BIRT
+2 DATE 1781
+2 PLAC Montgomery County, Virginia, United States
+1 DEAT
+2 DATE Between 1840-1850
+2 PLAC Jonesville, Lee County, Virginia, USA
+0 @I172720218465@ INDI
+1 NAME Elizabeth /Shepherd/ (Co 4g-s)
+2 GIVN Elizabeth
+2 SURN Shepherd
+2 NSFX (Co 4g-s)
+1 SEX F
+1 FAMS @F6@
+1 BIRT
+2 DATE 1783
+2 PLAC Lee, Virginia, USA
+1 DEAT
+2 DATE 10 Dec 1870
+2 PLAC Rose Hill, Lee, Virginia, USA
+0 @I172720218513@ INDI
+1 NAME Edward Edmund /Collinsworth/
+2 GIVN Edward Edmund
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F29@
+1 FAMS @F38@
+1 BIRT
+2 DATE Dec 1759
+2 PLAC Fairfax, Culpeper County, Virginia, USA
+1 DEAT
+2 DATE Mar 1816
+2 PLAC Antioch, Davidson, Tennessee, USA
+1 OBJE @O10@
+2 _PRIM Y
+0 @I172720218541@ INDI
+1 NAME Elizabeth /Shepard/
+2 GIVN Elizabeth
+2 SURN Shepard
+1 SEX F
+1 FAMS @F38@
+1 BIRT
+2 DATE 24 May 1747
+2 PLAC Newton, Massachusetts
+1 DEAT
+2 DATE 1788
+2 PLAC Lunenburg, Lunenburg County, Virginia, United States
+0 @I172720218628@ INDI
+1 NAME David Edward /Collinsworth/
+2 GIVN David Edward
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F39@
+1 FAMS @F29@
+1 BIRT
+2 DATE 1724
+2 PLAC Lee, Virginia, USA
+1 DEAT
+2 DATE 1773
+2 PLAC Virginia, Virginia, USA
+0 @I172720218640@ INDI
+1 NAME Deborah Barbara Thebie /Fox/
+2 GIVN Deborah Barbara Thebie
+2 SURN Fox
+1 SEX F
+1 FAMS @F29@
+1 BIRT
+2 DATE 1728
+2 PLAC Lee, Virginia, USA
+1 DEAT
+2 DATE 1801
+2 PLAC Nashville, Davidson, Tennessee, USA
+0 @I172720218666@ INDI
+1 NAME Edmund John Fox /Collinsworth/
+2 GIVN Edmund John Fox
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F24@
+1 FAMS @F39@
+1 BIRT
+2 DATE 1700
+2 PLAC Virginia, United States
+1 DEAT
+2 DATE 03 Feb 1752
+2 PLAC Richmond, Wise, Virginia, United States
+1 OBJE @O3@
+2 _PRIM Y
+0 @I172720218674@ INDI
+1 NAME Allison Alice /Thompson/
+2 GIVN Allison Alice
+2 SURN Thompson
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 DATE Sep 1700
+2 PLAC Renfrew, Renfrewshire, Scotland
+1 DEAT
+2 DATE 1765
+2 PLAC Virginia, USA
+0 @I172720218729@ INDI
+1 NAME Thomas John /Collinsworth  7GGF/
+2 GIVN Thomas John
+2 SURN Collinsworth  7GGF
+1 SEX M
+1 FAMC @F44@
+1 FAMS @F24@
+1 BIRT
+2 DATE 1670
+2 PLAC Westmoreland, Virginia Colony
+1 DEAT
+2 DATE 1735
+2 PLAC Westmoreland, Virginia Colony
+1 OBJE @O20@
+2 _PRIM Y
+0 @I172720218739@ INDI
+1 NAME Sarah Griff /Grist  7GGM/
+2 GIVN Sarah Griff
+2 SURN Grist  7GGM
+1 SEX F
+1 FAMS @F24@
+1 BIRT
+2 DATE 1670
+2 PLAC Virginia Colony, Virginia, USA
+1 DEAT
+2 DATE 1730
+2 PLAC Virginia Colony, Virginia, USA
+1 OBJE @O12@
+2 _PRIM Y
+0 @I172720218931@ INDI
+1 NAME Thomas /Collinsworth Ist/
+2 GIVN Thomas
+2 SURN Collinsworth Ist
+1 SEX M
+1 FAMC @F51@
+1 FAMS @F44@
+1 BIRT
+2 DATE 1650
+2 PLAC Westmoreland County, Virginia, USA
+1 DEAT
+2 DATE 29 SEP 1691
+2 PLAC Westmoreland, Virginia, United States
+1 OBJE @O11@
+2 _PRIM Y
+0 @I172720218937@ INDI
+1 NAME David Edward /Collinsworth/
+2 GIVN David Edward
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F53@
+1 FAMS @F51@
+1 BIRT
+2 DATE 1625
+2 PLAC Lancaster Virginia
+1 DEAT
+2 DATE 1678
+2 PLAC St Dunstan and All Saints, Middlesex, England
+0 @I172720218948@ INDI
+1 NAME Sir John /Collinsworth/
+2 GIVN Sir John
+2 SURN Collinsworth
+1 SEX M
+1 FAMC @F41@
+1 FAMS @F53@
+1 BIRT
+2 DATE 7 Oct 1604
+2 PLAC Coleshill, Warwickshire, England
+1 DEAT
+2 PLAC Middlesex County, England
+0 @I172720218969@ INDI
+1 NAME William /Collyns Collinsworth/
+2 GIVN William
+2 SURN Collyns Collinsworth
+1 SEX M
+1 FAMS @F41@
+1 BIRT
+2 DATE abt 1580
+2 PLAC Halesowen, Worcestershire, England
+1 DEAT
+2 DATE 16 Sep 1641
+2 PLAC St. Julian'S Church, Norwich, Norfolk, England
+1 OBJE @O6@
+2 _PRIM Y
+0 @F1@ FAM
+1 HUSB @I172674931858@
+1 WIFE @I172674931868@
+1 CHIL @I172674920073@
+0 @F2@ FAM
+1 HUSB @I172720211891@
+1 WIFE @I172720211909@
+1 CHIL @I172674933457@
+0 @F3@ FAM
+1 HUSB @I172720212551@
+1 WIFE @I172720217808@
+1 CHIL @I172720212484@
+0 @F4@ FAM
+1 HUSB @I172674931976@
+1 WIFE @I172674931990@
+1 CHIL @I172674931887@
+0 @F5@ FAM
+1 HUSB @I172720212030@
+1 WIFE @I172720212034@
+1 CHIL @I172720211955@
+0 @F6@ FAM
+1 HUSB @I172720218445@
+1 WIFE @I172720218465@
+1 CHIL @I172720218318@
+0 @F7@ FAM
+1 HUSB @I172720218060@
+1 WIFE @I172720218089@
+1 CHIL @I172720217981@
+0 @F8@ FAM
+1 HUSB @I172720211919@
+1 WIFE @I172720211927@
+1 CHIL @I172674933348@
+0 @F9@ FAM
+1 HUSB @I172674933017@
+1 WIFE @I172674933037@
+1 CHIL @I172674932931@
+0 @F10@ FAM
+1 HUSB @I172720218318@
+1 WIFE @I172720218338@
+1 CHIL @I172720218160@
+0 @F11@ FAM
+1 HUSB @I172674935478@
+1 WIFE @I172674935455@
+1 CHIL @I172674935437@
+0 @F12@ FAM
+1 HUSB @I172720212183@
+1 WIFE @I172720212195@
+1 CHIL @I172720212069@
+0 @F13@ FAM
+1 HUSB @I172720212310@
+1 WIFE @I172720212331@
+1 CHIL @I172720212050@
+0 @F14@ FAM
+1 HUSB @I172674934023@
+1 WIFE @I172674934056@
+1 CHIL @I172674933967@
+0 @F15@ FAM
+1 HUSB @I172674933624@
+1 WIFE @I172674933637@
+1 CHIL @I172674931976@
+0 @F16@ FAM
+1 HUSB @I172720212050@
+1 WIFE @I172720212058@
+1 CHIL @I172720212034@
+0 @F17@ FAM
+1 HUSB @I172674920073@
+1 WIFE @I172674919816@
+1 CHIL @I172674919673@
+0 @F18@ FAM
+1 HUSB @I172674933646@
+1 WIFE @I172674933986@
+1 CHIL @I172674933624@
+0 @F19@ FAM
+1 HUSB @I172720212210@
+1 WIFE @I172720212069@
+1 CHIL @I172720212030@
+0 @F20@ FAM
+1 HUSB @I172720211943@
+1 WIFE @I172720211955@
+1 CHIL @I172720211891@
+0 @F21@ FAM
+1 HUSB @I172674919750@
+1 WIFE @I172674919732@
+1 CHIL @I172674919641@
+0 @F22@ FAM
+1 HUSB @I172674933044@
+1 WIFE @I172674933058@
+1 CHIL @I172674932974@
+0 @F23@ FAM
+1 HUSB @I172674931887@
+1 WIFE @I172674931902@
+1 CHIL @I172674931858@
+0 @F24@ FAM
+1 HUSB @I172720218729@
+1 WIFE @I172720218739@
+1 CHIL @I172720218666@
+0 @F25@ FAM
+1 HUSB @I172674932925@
+1 WIFE @I172674932931@
+1 CHIL @I172674931902@
+0 @F26@ FAM
+1 HUSB @I172674919584@
+1 WIFE @I172720212484@
+0 @F27@ FAM
+1 HUSB @I172720217981@
+1 WIFE @I172720218043@
+1 CHIL @I172720217913@
+0 @F28@ FAM
+1 HUSB @I172674932946@
+1 WIFE @I172674932974@
+1 CHIL @I172674932925@
+0 @F29@ FAM
+1 HUSB @I172720218628@
+1 WIFE @I172720218640@
+1 CHIL @I172720218513@
+0 @F30@ FAM
+1 HUSB @I172674933457@
+1 WIFE @I172674933348@
+1 CHIL @I172674919816@
+0 @F31@ FAM
+1 HUSB @I172674933967@
+1 WIFE @I172674933974@
+1 CHIL @I172674933646@
+0 @F32@ FAM
+1 HUSB @I172674931910@
+1 WIFE @I172674931927@
+1 CHIL @I172674931868@
+0 @F33@ FAM
+1 HUSB @I172674933066@
+1 WIFE @I172674933076@
+1 CHIL @I172674933017@
+0 @F34@ FAM
+1 HUSB @I172720211971@
+1 WIFE @I172720211984@
+1 CHIL @I172720211919@
+0 @F35@ FAM
+1 HUSB @I172720212253@
+1 WIFE @I172720212236@
+1 CHIL @I172720212058@
+0 @F36@ FAM
+1 HUSB @I172674919673@
+1 WIFE @I172674919641@
+1 CHIL @I172674919584@
+0 @F37@ FAM
+1 HUSB @I172720218160@
+1 WIFE @I172720218129@
+1 CHIL @I172720218060@
+0 @F38@ FAM
+1 HUSB @I172720218513@
+1 WIFE @I172720218541@
+1 CHIL @I172720218445@
+0 @F39@ FAM
+1 HUSB @I172720218666@
+1 WIFE @I172720218674@
+1 CHIL @I172720218628@
+0 @F40@ FAM
+1 HUSB @I172674933991@
+1 WIFE @I172674933998@
+1 CHIL @I172674933637@
+0 @F41@ FAM
+1 HUSB @I172720218969@
+1 CHIL @I172720218948@
+0 @F42@ FAM
+1 HUSB @I172720217913@
+1 CHIL @I172720212551@
+0 @F43@ FAM
+1 HUSB @I172674934076@
+1 CHIL @I172674934023@
+0 @F44@ FAM
+1 HUSB @I172720218931@
+1 CHIL @I172720218729@
+0 @F45@ FAM
+1 HUSB @I172674934099@
+1 CHIL @I172674934076@
+0 @F46@ FAM
+1 HUSB @I172674935489@
+1 CHIL @I172674933974@
+0 @F47@ FAM
+1 WIFE @I172674935553@
+1 CHIL @I172674935489@
+0 @F48@ FAM
+1 HUSB @I172674933186@
+1 CHIL @I172674919750@
+0 @F49@ FAM
+1 HUSB @I172674935437@
+1 CHIL @I172674934014@
+0 @F50@ FAM
+1 HUSB @I172720212099@
+1 CHIL @I172674933986@
+0 @F51@ FAM
+1 HUSB @I172720218937@
+1 CHIL @I172720218931@
+0 @F52@ FAM
+1 HUSB @I172674934014@
+1 CHIL @I172674933998@
+0 @F53@ FAM
+1 HUSB @I172720218948@
+1 CHIL @I172720218937@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 100832
+3 _WDTH 834
+3 _HGHT 706
+2 TITL Bolin history pg 4
+1 _OID 05b3d3ca-2505-4ed2-bd79-067debb7ef93
+1 _CREA 2025-05-05 15:35:27.157
+1 _USER 5fAOqEuZMQydQ9ZGynrUWeePwp9q8MJlS3g7UY/vj48vie8daWM7qA679HmI6pSRKfdHTN12LXRT1KABhLQLpg==
+2 _ENCR 1
+1 _CLON
+2 _TID 24654141
+2 _PID 1548853658
+2 _OID dc55db38-488c-45b6-84e6-d513b89b1d82
+2 _USER dAG+WViwu6omYCmaD8XyYAgNrcQSaVh8X7a4AthODQ30nNKTiHE5WH0ocQoXJgbsHKjOcUzdKDDL6hQ3ha8tHw==
+3 _ENCR 1
+2 _DATE 2011-02-11 22:01:19.000
+1 _ORIG u
+1 _MSER
+2 _LKID dc55db38-488c-45b6-84e6-d513b89b1d82
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 10375
+3 _WDTH 299
+3 _HGHT 198
+2 TITL wAR OF 1812
+1 _OID 09af3118-3f2c-4261-bb71-78a45fe68758
+1 _CREA 2025-11-19 20:37:26.156
+1 _USER ZcZvIb5IeMVAPgOjdhfVjC8rKHUIrYE3n6xGW4LMiLMF8wdDm5YhVTwcdxyqug1mj3/hX4z+NHIl9BBr8L1iHw==
+2 _ENCR 1
+1 _CLON
+2 _TID 47455774
+2 _PID 120051305299
+2 _OID d21fc283-622d-4cfe-ad2c-78dbba13361c
+2 _USER 88n2DoMffa93OrjBfeCaXUansH1Hinrr7xSKUtr+gRlTIMZe21zH5eaCuSuMq9uNgw1oQFjadJKAfK1U5CHdTg==
+3 _ENCR 1
+2 _DATE 2016-12-14 20:36:59.885
+1 _ORIG u
+1 _MSER
+2 _LKID d21fc283-622d-4cfe-ad2c-78dbba13361c
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE jpeg
+3 _SIZE 2322396
+3 _WDTH 2389
+3 _HGHT 3333
+2 TITL HISTORICAL ATLAS OF WESTMORELAND COUNTY, VIRGINIA
+1 _OID 1b315259-1d00-4900-b27c-d2adbfe0b9bb
+1 DATE PRINTED IN 1942
+1 PLAC VIRGINIA
+1 _DSCR DAVID W. EATON COMPILED AN ATLAS OF WESTMORELAND CO., VA. SHOWING THE EARLIEST PATENTS IN THE COUNTY. JOHN & THOMAS COLLINGSWORTH WAS GRANTED A PATENT ON 200 ACRES ON 23 MAY 1691.
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-11-19 20:50:47.641
+1 _USER cuFxH6eDX2QxvvkeO5hrWKa/Ezz5A+OOCeTfLmi0jBE9pVsG58AYSsuKGqa5xMa8dpmLW3oGQdgfO4tZC4tVMA==
+2 _ENCR 1
+1 _CLON
+2 _TID 178977372
+2 _PID 222331916312
+2 _OID b830a763-32f5-4788-ab30-37e49dffb597
+2 _USER 51JMD7vLeVwc3ry3faRl4w5DRyX+VGTMbZwmomLrHFQZuGenPTy39kDvpzwZWHA1Dvacxe08cJSJv/OctJjDEA==
+3 _ENCR 1
+2 _DATE 2010-09-13 13:56:52.000
+1 _ORIG u
+1 _MSER
+2 _LKID b830a763-32f5-4788-ab30-37e49dffb597
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 34917
+3 _WDTH 335
+3 _HGHT 453
+2 TITL Hensley coat of arms
+1 _OID 20142c2b-3d33-4a92-b8d0-97486e5a136f
+1 _CREA 2025-11-19 20:36:02.467
+1 _USER m7o/8Uq+uYZKadzoMuExwrlXxIAq6MGNdcljdIx/xcw9dYCeJF4HNOsCkvdqv3fDgDvEmP9e9z394eKITn1c+A==
+2 _ENCR 1
+1 _CLON
+2 _TID 25076252
+2 _PID 1759437881
+2 _OID 3ff59f65-ac49-41d8-9d0e-5e3e875f27a7
+2 _USER bf1GFnVj1rLbX2/wgMVPjB1+MU13OB0W0jhWZO3PmILNZ05eFOnB3dImN10q6hEBCSpR8Y1MsWRhQYXWwPJuYQ==
+3 _ENCR 1
+2 _DATE 2019-05-18 17:33:13.000
+1 _ORIG u
+1 _MSER
+2 _LKID 3ff59f65-ac49-41d8-9d0e-5e3e875f27a7
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 207266
+3 _WDTH 1024
+3 _HGHT 829
+2 TITL Robert Ray WILL Caswell, NC
+1 _OID 2ba1f646-d9cd-4e9b-8039-f51c0284b5c0
+1 _CREA 2025-05-05 15:46:56.313
+1 _USER /+i63d7ZBXXlplpXYLxPlb9OwKsQ0x8P1EpYcYKbM+RNeNsukq8K4Qdnr1/m70fNzHqvaU4LjYh4GWDiV9TP/w==
+2 _ENCR 1
+1 _CLON
+2 _TID 72608952
+2 _PID 34258467441
+2 _OID 55ecdd0b-caa2-40e9-a5c8-aa16d0c71f82
+2 _USER nXFpyhYm2pXsBRUHeONAREeurKOOagXi8y9WShjML5hSWS+tBKMbJy1jaRhAsNHaA8kYw7Ya3YQ5sOnrw/ByCQ==
+3 _ENCR 1
+2 _DATE 2014-08-26 23:26:30.000
+1 _ORIG u
+1 _MSER
+2 _LKID 55ecdd0b-caa2-40e9-a5c8-aa16d0c71f82
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 31612
+3 _WDTH 600
+3 _HGHT 600
+2 TITL st,small,507x507-pad,600x600,f8f8f8
+1 _OID 30cbbb53-b941-4c89-bdba-d3f349c8494e
+1 _CREA 2025-11-19 20:53:46.795
+1 _USER VXK5WkzSIQYdrz7/5nw81sO0+yTAYXICyqM8BjIUPPC2+Jlu0URerPLQpqVsn6IL6FSqU4NL/tkQL9vHB1AQ6g==
+2 _ENCR 1
+1 _CLON
+2 _TID 6233771
+2 _PID 172465199123
+2 _OID e06e21c4-7026-41d8-b649-b28c37e2ef8d
+2 _USER SaM+3D8GExM5AF9M3YhT5eo+nUgnDuWHFfWPEjA3Hvc2w5TdFXZIndzsJt/eQS/F9KVnQmfumRWQK5xSV71UPQ==
+3 _ENCR 1
+2 _DATE 2023-04-16 02:05:35.302
+1 _ORIG u
+1 _MSER
+2 _LKID e06e21c4-7026-41d8-b649-b28c37e2ef8d
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 54987
+3 _WDTH 250
+3 _HGHT 342
+2 TITL  Thomas W. Johnson
+1 _OID 40e05974-5f3c-4280-bf43-f929df2ae889
+1 DATE 1931
+1 PLAC Sullivan, Moultrie County, Illinois, USA
+1 _CREA 2025-05-05 15:34:03.461
+1 _USER iGs3JnM7M0RNRt2F0uagrdiil8baGsred6jD/HQX2XoJxr966lSd/9k72GFPHfkmOabc5Jw9OzYmlyRsKJEtrg==
+2 _ENCR 1
+1 _CLON
+2 _TID 118753357
+2 _PID 372003941834
+2 _OID df0957e8-5391-41cd-9933-c3ab338eaf7c
+2 _USER jhliJJ94VFri2K/vtJtzv89M4kCbZOAg/tinYh4sJylAryWktrB+0V5tEN3qxwU3IwJ/bZLJlVQkLW5gqDDliA==
+3 _ENCR 1
+2 _DATE 2018-05-28 14:44:33.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/88500789/thomas-w.-johnson
+1 _MSER
+2 _LKID df0957e8-5391-41cd-9933-c3ab338eaf7c
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE pjpeg
+3 _SIZE 469600
+3 _WDTH 1081
+3 _HGHT 1700
+2 TITL Pg 13 of L. L. Ray book
+1 _OID 4a0a161a-456f-4fd2-a0b9-0cea291308f8
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-05-05 15:41:52.469
+1 _USER nnxYf0PjmOXD0o51tOSRgNN6ma8o6xoKzr0aozte7RZgiuT8fYFwMkTEqn1/FsX97u9irXaeT+ps3QYHd7e12Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 10659585
+2 _PID 539384504
+2 _OID 49aaa323-c268-47c6-8bd7-26ab59d6dc65
+2 _USER YxUZKcXTfSsIA/r+dXFCww5XXjkRN+e5icC9he86ss2XpgsilWYwZDmP2qEKW8svjzIOhJHfDsMLnIFD4K3acA==
+3 _ENCR 1
+2 _DATE 2010-06-12 01:09:00.617
+1 _ORIG u
+1 _MSER
+2 _LKID 49aaa323-c268-47c6-8bd7-26ab59d6dc65
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE pjpeg
+3 _SIZE 34332
+3 _WDTH 250
+3 _HGHT 334
+2 TITL Phillip Myers
+1 _OID 4bdd0689-84ae-4023-b0e8-4e317f50acef
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-05-05 15:35:13.231
+1 _USER 3Jo3oAmDKixr/kKfgf+X5gthlcR1xco9nF11PYseMJOyfbqHE2TJ571XHN8x1rECZg4bEakOLsI/i1rjehBa/A==
+2 _ENCR 1
+1 _CLON
+2 _TID 4399758
+2 _PID 24011453363
+2 _OID b7427159-b199-4bbe-869d-b1c7bcf28169
+2 _USER ANR171I6u0vomCYHXcpwEvPn9wu9RLDuo/bO7ailQBqjqf/cIBk0msHKrNK1Zzpk788MUMX4VGHtHCZf71BxJQ==
+3 _ENCR 1
+2 _DATE 2014-04-07 04:44:33.000
+1 _ORIG u
+1 _MSER
+2 _LKID b7427159-b199-4bbe-869d-b1c7bcf28169
+1 _ATL N
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 24029
+3 _WDTH 280
+3 _HGHT 280
+2 TITL Blue Check
+1 _OID 77514c28-aef2-4fc3-ba1d-3eaffd94d715
+1 _CREA 2025-11-19 20:49:03.710
+1 _USER f+ZWs27doeLtMkaklg5LXisPzzyKQ5RT1D8z3MsFjBAr8+No1Ube3Z5+DejG+gV1WnnfMRmqX4B9eIws1CGRVw==
+2 _ENCR 1
+1 _CLON
+2 _TID 155300339
+2 _PID 112105989377
+2 _OID ad75edbd-0f9f-4ec3-9ed8-1dd99b0ce311
+2 _USER Ymm5T7MhAV+/4nBty3N24atEE5ldypJ1jY6ZDbIDdUQY1P+LIbilhw6JuyFV7DAcFuRIOLQYLtKktLR3+uBa0A==
+3 _ENCR 1
+2 _DATE 2019-08-19 22:26:21.000
+1 _ORIG u
+1 _MSER
+2 _LKID ad75edbd-0f9f-4ec3-9ed8-1dd99b0ce311
+1 _ATL N
+0 @O11@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 1479785
+3 _WDTH 2141
+3 _HGHT 3389
+2 TITL Thomas Collinsworth - Virginia, Marriages of the Northern Neck of Virginia, 1649-1800
+1 _OID 7e7e0d8f-2897-4d92-9240-0adb5c533594
+1 _CREA 2025-11-19 20:53:15.552
+1 _USER Vw9bySOIkM1uYG/MxeB6cp6klHFBbiUhVu2MIzcuNpC18LK0POtAQUJ2YofPfY2ligI1xgeG5ed4yvFFKH9YCw==
+2 _ENCR 1
+1 _CLON
+2 _TID 106352177
+2 _PID 170052080247
+2 _OID 37c0da5a-1382-4ff4-b28c-98ae56342087
+2 _USER jATlB/HWHC7Ggd4xy4H7Rk7NRno9FoSinanvba29HCXT9d+sWgT6EeD2WRJsn5BhgucW7v+d2xQ/11JK/wTpkw==
+3 _ENCR 1
+2 _DATE 2016-04-03 22:32:16.000
+1 _ORIG u
+1 _MSER
+2 _LKID 37c0da5a-1382-4ff4-b28c-98ae56342087
+1 _ATL N
+0 @O12@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 12500
+3 _WDTH 160
+3 _HGHT 153
+2 TITL Photo
+1 _OID 7feaadd5-df92-4319-8a3b-cc67417cfac6
+1 DATE 28 Dec 2022
+1 _CREA 2025-11-19 20:51:23.324
+1 _USER fWGJLXxYXr9q8O3ZPLfsBwbS5uSDQgtvD4Z95g6Zzrf3UaJR96hCBqvRdAzVGvIvHSFlSahifMLeTnyxxCqSJQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 6233771
+2 _PID 172445267009
+2 _OID 3610eb76-2641-46b5-abe9-156d2d43bfed
+2 _USER IW48xYlgtxNUQ0nLkHmKvZW8Zr9dE8DGazU4s0yxWe8i1kXYzFyekqDWWm3MxNr1082djvR9vnQX5vPEvodXmA==
+3 _ENCR 1
+2 _DATE 2022-12-28 19:58:30.340
+1 _ORIG u
+1 _MSER
+2 _LKID 3610eb76-2641-46b5-abe9-156d2d43bfed
+2 _PARM ms_params=eyJyb3RhdGUiOiJub25lIiwiZmxpcCI6Im5vbmUifQ==
+1 _ATL N
+0 @O13@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 49802
+3 _WDTH 376
+3 _HGHT 404
+2 TITL Kessiah Henslee
+1 _OID 84b0fe45-0eaa-4f76-ad36-7d2bd8cdc320
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-05-05 15:46:25.183
+1 _USER WJURGctDRstSvHPeDRmK+ln9TByAQ20tkAlfmwv7X58zYXQX3WA7Q+ODCcx/mfzjiU/QWMkUn8yp8vn0a9RbwQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 20155826
+2 _PID 910918526
+2 _OID d553038c-2ec2-4dc7-b989-774597eef069
+2 _USER q+lWuqPqv42OaCOqFXwxYsa52nKhKjsyREDtvTJyXAY/4Uqd2YuMjyi4TNgjPvpLoouljcWXDcDxac5AeWpJ+w==
+3 _ENCR 1
+2 _DATE 2015-04-17 20:11:59.000
+1 _ORIG u
+1 _MSER
+2 _LKID d553038c-2ec2-4dc7-b989-774597eef069
+1 _ATL N
+0 @O14@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 244664
+3 _WDTH 724
+3 _HGHT 1024
+2 TITL Media Item(12)
+1 _OID 84b855ef-3116-4f03-80d3-fd43fd4a43c8
+1 DATE 4/15/2012 10:26:57 PM
+1 _CREA 2025-05-05 15:46:08.416
+1 _USER A7d5OyWpdcNjnfl/mP7XIYzwVlmGEGHvG3l8tTCtHObPVw+73EX2vKevlhMR/hSo41Qm8qdt5Nv7sKMuf6Fu1w==
+2 _ENCR 1
+1 _CLON
+2 _TID 168470104
+2 _PID 122182624600
+2 _OID 06a7dba4-da0e-4d53-979e-76feb7878c10
+2 _USER cc+04qKFkmDE6qQUOfKtxENJBWUDl+6BK/NwHlUNyVJ5afJC2PMgyzaMUShiLvQqh4vDBcXCPE6OOgIE4UeXkg==
+3 _ENCR 1
+2 _DATE 2020-04-21 13:48:30.000
+1 _ORIG u
+1 _MSER
+2 _LKID 06a7dba4-da0e-4d53-979e-76feb7878c10
+1 _ATL N
+0 @O15@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 59786
+3 _WDTH 640
+3 _HGHT 480
+2 TITL John Robert Allison 2
+1 _OID 89f169ff-6800-41e1-84d3-00efed68bc89
+1 _CREA 2025-05-05 16:05:15.528
+1 _USER Qr16NVQU6cJRtKQO+Y9MTrMUl+9SeTfRUyH1GBF+6KvO+Hjo8V0KoUYmeJwL6PYHNaz8Xir+1t0ZQaSkVPHGHQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 74741590
+2 _PID 30302758274
+2 _OID a0c4b448-dd6a-4877-b331-dad10bf93c6a
+2 _USER PN/5fLM0YOkLSFUyg02RChNpV8iI1tGEQdo+MwVLWKRmJQazSK0KMM0VaDX/Bugd738VKar9FUNiv5zUGhdPRA==
+3 _ENCR 1
+2 _DATE 2018-04-12 23:44:46.000
+1 _ORIG u
+1 _MSER
+2 _LKID a0c4b448-dd6a-4877-b331-dad10bf93c6a
+1 _ATL N
+0 @O16@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 152372
+3 _WDTH 520
+3 _HGHT 807
+2 TITL 1850 census Nancy Taylor Bolin
+1 _OID 9173ca81-edbc-47b7-9887-407f01ee8d22
+1 _CREA 2025-05-05 15:35:32.871
+1 _USER Up/Oqt6ARuhICuq0so67OliXHWaUNUc3fAc21eBgh5UYdThCwfVR++ahKzuMmtIVHAZWwKxi+psyarVgz5qw1A==
+2 _ENCR 1
+1 _CLON
+2 _TID 24654141
+2 _PID 1548854896
+2 _OID f1673650-fca1-4bdd-b8bf-e9de0c0625c0
+2 _USER gBHzn8UGdQCKHNVDkzDImaqPL2lc9EQtapuxl3DFiPlTGDNQH927TnEZAqka+T9ZiDeKGK2ckRniny5xySGObg==
+3 _ENCR 1
+2 _DATE 2011-02-11 22:03:55.810
+1 _ORIG u
+1 _MSER
+2 _LKID f1673650-fca1-4bdd-b8bf-e9de0c0625c0
+1 _ATL N
+0 @O17@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 1924
+3 _WDTH 106
+3 _HGHT 160
+2 TITL Grizzall Wray
+1 _OID 91b2d04b-bc16-4304-92ce-0f1341b6a49f
+1 _CREA 2025-05-05 16:06:22.006
+1 _USER YftfvqOi6dcT8jm+CM4x+5lYfmvm+s59ucp3aw3sHyVwgTxUIj1L/uxBexY0LIxVsZo4V9YccXFzjcglpl0FXg==
+2 _ENCR 1
+1 _CLON
+2 _TID 110714035
+2 _PID 150141401786
+2 _OID 7b200318-520f-41ae-b1be-aa6301bd4f8c
+2 _USER 9VqbGgE/v6ExXzCP563spMsExZGfLiXGyI0ghQXGEYA+QKByzPVduGIGheA+WoVR29bRpyQ53Nizc1l+g+whtA==
+3 _ENCR 1
+2 _DATE 2017-09-01 03:38:33.000
+1 _ORIG u
+1 _MSER
+2 _LKID 7b200318-520f-41ae-b1be-aa6301bd4f8c
+1 _ATL N
+0 @O18@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE jpeg
+3 _SIZE 8038
+3 _WDTH 240
+3 _HGHT 184
+2 TITL John Henderson Collingsworth
+1 _OID 95420309-88c1-489b-80ce-c78b01c3c016
+1 _DSCR Birth:  Jun. 6, 1807  Lee County  Virginia, USA   Death:  Sep. 14, 1887  Union County  Tennessee, USA     Son of Edmund Fox Collingsworth (Jr.)    Husband of Rebecca Clarkson.            Burial:  Yadon Cemetery   Union County  Tennessee, USA      C
+2 CONC reated by: Laura Breite  Record added: Dec 29, 2012   Find A Grave Memorial# 102785246
+1 _META <metadataxml><cemetery>Yadon</cemetery><transcription /><personas><persona><pname>John H. Collinsworth</pname><bdate /><bplace /><ddate /><dplace /></persona></personas></metadataxml>
+1 _CREA 2025-11-19 20:47:26.151
+1 _USER +SyDZ5Rjfsmj2M2zLxZV5agqnXrgKQTWHaFthvYDK9bNy5nv7wCckW5AFft00RQZ/Y3OCxYDZ0k/JGmH1Z99gg==
+2 _ENCR 1
+1 _CLON
+2 _TID 6875521
+2 _PID -1211217642
+2 _OID 5df97870-9340-4cad-b3e6-bf929f2f4834
+2 _USER PV6RhDUmFrO6j3/k2lcbT1aPfZsdfUjKxhreITz9waayePbRASeblyTJCSupMkQ+Szz9Ome3snKh4G/SPXe33w==
+3 _ENCR 1
+2 _DATE 2013-01-31 19:17:56.000
+1 _ORIG u
+1 _MSER
+2 _LKID 5df97870-9340-4cad-b3e6-bf929f2f4834
+1 _ATL N
+0 @O19@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 21897
+3 _WDTH 250
+3 _HGHT 141
+2 TITL Findagrave  Paul Henry Collinsworth
+1 _OID 95e095ea-f807-45db-ae54-cb1f6f87dfd0
+1 DATE 11 Nov 1976
+1 PLAC Lafayette Township, Coles County, Illinois, USA
+1 _CREA 2025-11-19 20:44:13.315
+1 _USER 277BLR0uTiiCcj78IYgVPPL0omSkS6IZlzCE62afTBIYzM0tLYZiL6Gi3iJN5X1uOaPSoGMYtBkXvN074WbL7g==
+2 _ENCR 1
+1 _CLON
+2 _TID 26034767
+2 _PID 252448377674
+2 _OID c1d5cd09-478c-4db3-a979-3c2c56ddb41a
+2 _USER 2CQoYPytYCnDyT7ZTAn21UupkzZNKGALrPHtxOUKnX+RCJhQzwdk/wEe7o4I2l+G4lVfY5kS3obrBy1I+0Mapw==
+3 _ENCR 1
+2 _DATE 2022-12-27 18:38:47.493
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/192581416/paul-henry-collinsworth
+1 _MSER
+2 _LKID c1d5cd09-478c-4db3-a979-3c2c56ddb41a
+1 _ATL N
+0 @O20@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 31298
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Photo
+1 _OID aa9b291b-f505-4ee5-b230-241f13fd2254
+1 DATE 28 Dec 2022
+1 _CREA 2025-11-19 20:51:15.555
+1 _USER NNBIqEcslHpunukUnKkoINyMAw9zbmzh5XuZaGQx42YTS8LkW1eNR8csWVvP6LBwG8HbRmt5pe3muxX2ZPkfkA==
+2 _ENCR 1
+1 _CLON
+2 _TID 6233771
+2 _PID 172444756860
+2 _OID 7ee15682-9294-422f-9447-1590e25fa689
+2 _USER zSpvY/uRxmCQYVHwSIIjok1ugfHIJFYfAwbsLiEDP96UC1QT9Vsg6NMgk71V/tz0BhPn76pyMTwJUw4jU04uTw==
+3 _ENCR 1
+2 _DATE 2022-12-28 19:44:32.180
+1 _ORIG u
+1 _MSER
+2 _LKID 7ee15682-9294-422f-9447-1590e25fa689
+2 _PARM ms_params=eyJyb3RhdGUiOiJub25lIiwiZmxpcCI6Im5vbmUifQ==
+1 _ATL N
+0 @O21@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 41566
+3 _WDTH 320
+3 _HGHT 450
+2 TITL 135685-COLLINSWORTH_20220806
+1 _OID af731534-9472-430f-89bd-583ce02b3438
+1 _CREA 2025-11-19 20:45:42.458
+1 _USER g8jMVSdSij9ezVzagHavRUTnhIGsTNubT3sED4HiqCUG+A7yRFdAQ5n89kmq/GqMEy0q5F0PlwrAwzOJ8DSu0w==
+2 _ENCR 1
+1 _CLON
+2 _TID 27025259
+2 _PID 292418025888
+2 _OID 909539ea-4951-4d4f-a826-5b8e60a68d82
+2 _USER Bd0zaBdrtKABl87/shHwRmgzMaHQM1eixP6ACeF2gPL2Z/GB9wtovHyC6FMw2fM7ORr0v9ldNX4ynuLiFAQrUQ==
+3 _ENCR 1
+2 _DATE 2022-08-06 18:38:48.536
+1 _ORIG u
+1 _MSER
+2 _LKID 909539ea-4951-4d4f-a826-5b8e60a68d82
+1 _ATL N
+0 @O22@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE pjpeg
+3 _SIZE 39956
+3 _WDTH 250
+3 _HGHT 169
+2 TITL Earl Ray
+1 _OID b0c0e27c-a1c0-4c05-be29-7eea64109424
+1 PLAC Graceland Cemetery
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-05-05 15:29:34.419
+1 _USER rTGLKxNHBBS+yr/iJ1MuKd63/TTr2Ejr/VFdwtsbkRWlW6BTYLUIBkS7SVdoNcqVMYt+Vv/N3IY3/Q1m90WiJQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 8216050
+2 _PID -981750666
+2 _OID 3c81ab44-20bb-4e5a-ae39-fb040dfa8f0c
+2 _USER nCpnWqIYN89TnCLz7b5EOWz1aCH1vogaMSTpzlAv2OjETv0//dxNt+X48U6Sq/VwTXwdPqznDsWTNK1k6hP9xA==
+3 _ENCR 1
+2 _DATE 2008-11-16 00:54:03.000
+1 _ORIG u
+1 _MSER
+2 _LKID 3c81ab44-20bb-4e5a-ae39-fb040dfa8f0c
+1 _ATL N
+0 @O23@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE tiff
+3 _SIZE 489200
+3 _WDTH 616
+3 _HGHT 904
+2 TITL James Collinsworth
+1 _OID b42c5e74-0bab-475d-8cc9-4ea9fd6eec73
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-11-19 20:45:58.815
+1 _USER x8cRryfGEJd+echl936goHNwrqcHvNx5vSHwHgEbJKGK4PYumqN0uzeeCrixiN1uV+QtsMjFUdrgQgp5k+Ogow==
+2 _ENCR 1
+1 _CLON
+2 _TID 15708273
+2 _PID 1122182484
+2 _OID 609d05b4-223c-47e1-85e7-887e9fc78cbb
+2 _USER OnWdqPIlENxLOVLV+YzS/EVfniD4nvIfl7xKYUdjMAdISu8OrYl+zY/PuRK9IwcHOSNlQM3H/RffWWgWUC9vHw==
+3 _ENCR 1
+2 _DATE 2010-10-14 15:41:41.780
+1 _ORIG u
+1 _MSER
+2 _LKID 609d05b4-223c-47e1-85e7-887e9fc78cbb
+1 _ATL N
+0 @O24@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 142886
+3 _WDTH 640
+3 _HGHT 480
+2 TITL josephine johnson Ray
+1 _OID b52b21f4-ac59-477b-b894-fa464ecf0167
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-05-05 15:29:41.595
+1 _USER ZSrLnFuViJ9yAa13oSk1xGuMWux3p1TAWg3hI+xg515AWPPJNgXtfHg2KKbNo0nSiN0ct1N6gvOhF0/nXax+Ew==
+2 _ENCR 1
+1 _CLON
+2 _TID 8216050
+2 _PID -931160267
+2 _OID d52c336a-2be0-47fa-8008-1a89b90f1a2f
+2 _USER k2USf01cBYZ3c1TcyW2dOrkvHSGCUSzmIYYIti6qzLE71dnDAbfuBE/yeGW8KngPLU2lhI1D9deglco5Ax/azA==
+3 _ENCR 1
+2 _DATE 2013-08-30 21:33:29.000
+1 _ORIG u
+1 _MSER
+2 _LKID d52c336a-2be0-47fa-8008-1a89b90f1a2f
+1 _ATL N
+0 @O25@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 57809
+3 _WDTH 250
+3 _HGHT 386
+2 TITL Rebecca Clarkson Collingsworth
+1 _OID bbdbf5a3-bbb6-4619-af8f-da2428815818
+1 _DSCR Birth:  Dec. 6, 1808 
+2 CONT Death:  Sep. 10, 1880 
+2 CONT 
+2 CONT  
+2 CONT   
+2 CONT Burial:
+2 CONT Yadon Cemetery 
+2 CONT Union County
+2 CONT Tennessee, USA 
+2 CONT  
+2 CONT Created by: don sanford
+2 CONT Record added: Dec 07, 2009 
+2 CONT Find A Grave Memorial# 45191363 
+2 CONT 
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-11-19 20:47:36.484
+1 _USER UuXUWuCjxVIwf9JTN2znghoFdlH8fE2YZXdiX6o5PkC92z0rlbN+AkNBkiebX/MFoVLHtGj8QLXXVWlTy3an7w==
+2 _ENCR 1
+1 _CLON
+2 _TID 6875521
+2 _PID -1211217634
+2 _OID 9f4387a4-bbe4-4183-a7bc-69cb283ef2b3
+2 _USER e1ZAsa1QsvBb8c3hLUPapGMaqOpmWhdxyFeFysSBbTw/6np3zz59/oUXRtyz4zKEUFUxUvtWuMTikJCRmPvaxg==
+3 _ENCR 1
+2 _DATE 2013-01-31 19:09:52.000
+1 _ORIG u
+1 _MSER
+2 _LKID 9f4387a4-bbe4-4183-a7bc-69cb283ef2b3
+1 _ATL N
+0 @O26@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 1036750
+3 _WDTH 1864
+3 _HGHT 2504
+2 TITL Pension Letter
+1 _OID bd43b411-bcf6-4d43-8d41-3b49fcdfb9b4
+1 _META <metadataxml><cemetery /><transcription>Letter written to recieve information about the pension granted to Edward Dycus for his service in the Revolutionary War.</transcription></metadataxml>
+1 _CREA 2025-05-05 15:46:46.627
+1 _USER lschd8cq3l9sERGigT1qhI61Ghwo1/lZ2hi9kQ3b4EVNuzTE4s8/6NiEF8kYESR48uP1rwkmjGvPX6lruXk3zw==
+2 _ENCR 1
+1 _CLON
+2 _TID 3690281
+2 _PID 349053394
+2 _OID 2b8579b9-9d09-4364-b625-3b884a71b72f
+2 _USER TXKThyCUgN4s5hm0zs9QV8nZGoxGiP+frSstBxyB+URiuGippzB6WcHcqapuKU30DXItraef/rWPpKHkJtFVLA==
+3 _ENCR 1
+2 _DATE 2012-07-15 15:38:50.000
+1 _ORIG u
+1 _MSER
+2 _LKID 2b8579b9-9d09-4364-b625-3b884a71b72f
+1 _ATL N
+0 @O27@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 5929
+3 _WDTH 201
+3 _HGHT 221
+2 TITL ship
+1 _OID bfb039f5-fa0b-4f05-a7c8-5266216af8b0
+1 _CREA 2025-11-19 20:37:20.150
+1 _USER iU8Jp6iSdU3MyryaRDNI1gkG4wgpL6hl7jSuX1C7r1SI92mC/Gukr9nJFu7Ewmu6qrygC0BksO9EgDQYj+g0OA==
+2 _ENCR 1
+1 _CLON
+2 _TID 80287584
+2 _PID 280089096758
+2 _OID 34fa4405-c1f3-4ccf-944f-437c7d6d4537
+2 _USER tFy5Jq1nIkEmo7iOM7xDC1+EFNpP5/qIyS9MZ9qBV19ooy1kPYLi9HjKZgJ7vxLADiIRKCepMwGawv4p5Y/jcg==
+3 _ENCR 1
+2 _DATE 2017-05-02 16:59:27.000
+1 _ORIG u
+1 _MSER
+2 _LKID 34fa4405-c1f3-4ccf-944f-437c7d6d4537
+1 _ATL N
+0 @O28@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 44461
+3 _WDTH 350
+3 _HGHT 247
+2 TITL St Paul's Episcopal Church, Kent Maryland
+1 _OID c60cc14e-94c6-4298-9824-e4fe17c52e67
+1 _DSCR Place of baptism of the children of William Dycus; Place of Marriage for Abraham Ambrose and Ellinor Mason (married at St. Paul's Episcopal Church in Kent, Maryland on August 27, 1704).
+1 _CREA 2025-05-05 16:05:05.558
+1 _USER dp+E2B4ztcCt+ChIYHur3uVWUpmze0jezMkDNbOvtWHvpsd70i04xE7E1Pffb6CVYIIXqrhUgW66SMA0/GbC6w==
+2 _ENCR 1
+1 _CLON
+2 _TID 36636562
+2 _PID 422018219664
+2 _OID 8fce8b7f-f2a6-4a80-9a41-277779a1f28b
+2 _USER DxaYgpFsx02ZLYWgULzMpTqVHZyUWYB0pgnOADgGSsa3EK7YalHihFAzCaMHuzwvFt241kLKERZr6d7/Oigp1Q==
+3 _ENCR 1
+2 _DATE 2018-06-29 01:33:24.000
+1 _ORIG u
+1 _MSER
+2 _LKID 8fce8b7f-f2a6-4a80-9a41-277779a1f28b
+1 _ATL N
+0 @O29@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 32691
+3 _WDTH 550
+3 _HGHT 400
+2 TITL james wright (2)
+1 _OID c994c281-c72b-4b35-90b1-75f220eab7dd
+1 _DSCR From left James Ray, Walter Wright, Samuel Wright and Walters Son
+2 CONT James is Samuels Wifes father in law
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-05-05 15:30:33.578
+1 _USER nIuEqMIMUk2vBcgDIcoxy5tQ6rjX1nqGa1Nj4lO+4U50MzargVXRcr+K3zEVXPcKiKIsUNsHJhVxqKKRf6Bv7A==
+2 _ENCR 1
+1 _CLON
+2 _TID 8216050
+2 _PID -981751033
+2 _OID 76ea4d8a-9fd6-492d-b7a6-4729bb57903d
+2 _USER 9aEZ3OTH3VEzJX7GzWCg5kIe9WobV+PNTjDkx5eWWxCs23oAFs+FTNik34SAu/0l3hpC1Te2EBpW21MJyJqaVQ==
+3 _ENCR 1
+2 _DATE 2013-04-24 15:44:50.000
+1 _ORIG u
+1 _MSER
+2 _LKID 76ea4d8a-9fd6-492d-b7a6-4729bb57903d
+1 _ATL N
+0 @O30@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 13326
+3 _WDTH 250
+3 _HGHT 167
+2 TITL  William Bolin
+1 _OID e23c3cb7-99e0-40ae-9df1-1b851594a1c3
+1 DATE 18 Mar 1901
+1 PLAC Sullivan, Moultrie County, Illinois, USA
+1 _CREA 2025-05-05 15:34:55.758
+1 _USER V0Yyc7z2U5I7CbzZzjig8aBzmfGJEsiZPiSKP8DA6RIQQAUTRWeVc7NZR/5xsq2dmed+bKh8JmaVaTTIHQx2xg==
+2 _ENCR 1
+1 _CLON
+2 _TID 115117432
+2 _PID 382001263904
+2 _OID dd2f2a78-9f23-4ae2-a88d-b9ba84df7e25
+2 _USER Ws25eHN67jJJWHAhmVJuIbGhmKO1ZA4ghxiBX1JrHrj6ZOMmiKrhKKQL25ZencRF7Ic2BYDnZZPzOJi2iiUfCg==
+3 _ENCR 1
+2 _DATE 2018-04-28 17:24:41.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/59384512/william-bolin
+1 _MSER
+2 _LKID dd2f2a78-9f23-4ae2-a88d-b9ba84df7e25
+1 _ATL N
+0 @O31@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 126814
+3 _WDTH 2048
+3 _HGHT 1536
+2 TITL 0929161756
+1 _OID e2b6a8fc-e8d6-4aeb-80b6-7d13a1055b65
+1 _CREA 2025-05-05 15:34:23.565
+1 _USER RuxbWnDArcNCjt7VnvwsIJVP9Hs5ZqLTHt/MM/YLRjhqeOJuY6mUZuVBxrlICo6irjL2KMu/dDsBL/i2BaBsKg==
+2 _ENCR 1
+1 _CLON
+2 _TID 12994132
+2 _PID 27115215800
+2 _OID da08dfc1-b4a9-4f66-8e3b-ea9b47387dc8
+2 _USER VCJ7NimWYT8BjoxpZdpF8Y9MsFEOc3tvF1NgUkpUysbCyOnch+uKpQ3OSzm/W7/NNqm7V0hDxUF9KKvlQRHTHw==
+3 _ENCR 1
+2 _DATE 2016-09-30 00:54:09.000
+1 _ORIG u
+1 _MSER
+2 _LKID da08dfc1-b4a9-4f66-8e3b-ea9b47387dc8
+1 _ATL N
+0 @O32@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE pjpeg
+3 _SIZE 40739
+3 _WDTH 396
+3 _HGHT 663
+2 TITL Robert rhea will
+1 _OID ee7e01ec-cba6-4663-add3-64c46ca11988
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-05-05 15:47:28.889
+1 _USER P+qJVBL5Iq0BBd6oEvPsHIy2RI+VpgMPQ8+8LOjTBtbGl0QtPL2VDmVn+FRut085NO/klsK8oSB4E2Oouw3qEw==
+2 _ENCR 1
+1 _CLON
+2 _TID 25236878
+2 _PID 12815650478
+2 _OID 67dbce78-9a1c-4d18-a373-521e6c1bb715
+2 _USER T7y8IR3aAujlt23HTDlYljIIIdl1kudh0deamCO7GDqAULS6X3ZFHUoQgH3ipL1oaA8zsfNr2lb7lBTz0No7NA==
+3 _ENCR 1
+2 _DATE 2012-10-21 20:46:34.000
+1 _ORIG u
+1 _MSER
+2 _LKID 67dbce78-9a1c-4d18-a373-521e6c1bb715
+1 _ATL N
+0 @O33@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 70063
+3 _WDTH 500
+3 _HGHT 338
+2 TITL Rhea, Robert 1657-1720 gravestone
+1 _OID ef2ee59c-7959-4f81-83dc-cb15c4a43143
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-05-05 15:47:46.541
+1 _USER al1sGgw7GfYXneqYjhCKSBjtNcre66hTiuijTIoCJrTS2ld9FUpPhNMsq/EVwFcqORwZlH0e+v1mA+iq6+ObMQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 33125075
+2 _PID 29357074010
+2 _OID 09fec1a0-170f-4aee-85ca-2d9ce89749a6
+2 _USER /wwiCDHiA84wNYBWsVVQswxuNcLQgjqu+QbbmF6DOcOKIV/jsQ42+KDm7xNbixkm9NktHJNeDlRYVYacczub3A==
+3 _ENCR 1
+2 _DATE 2016-03-12 03:57:35.000
+1 _ORIG u
+1 _MSER
+2 _LKID 09fec1a0-170f-4aee-85ca-2d9ce89749a6
+1 _ATL N
+0 @O34@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 103086
+3 _WDTH 767
+3 _HGHT 856
+2 TITL Johnson Bolin Moultrie Co., IL Marriage Index
+1 _OID f1b2a1c4-c5d4-497a-9116-3800bc39946d
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-05-05 15:34:12.581
+1 _USER NEMmrW/XURaRa0PLQY0cAzBamZ4yuzj64RHBJTVfw7/ujsVElrBoG58DTgY/eatVnPWHGG7KClLZTex24OPx/g==
+2 _ENCR 1
+1 _CLON
+2 _TID 85181000
+2 _PID 30513259115
+2 _OID 2fd12b97-45cc-4d08-a383-7a4435617128
+2 _USER duq5/Bjd12smjH5HO57n1Ie6cHajzIiSmzKRVGyqb5DQdfuDXUnZZ15ZCagzaPiE1OjD0IoUwJ7IjTlNAfoCWA==
+3 _ENCR 1
+2 _DATE 2015-11-06 21:01:40.747
+1 _ORIG u
+1 _MSER
+2 _LKID 2fd12b97-45cc-4d08-a383-7a4435617128
+1 _ATL N
+0 @O35@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 143883
+3 _WDTH 640
+3 _HGHT 480
+2 TITL mildred l LaDow Ray
+1 _OID f6ba5f63-1156-4f23-bc55-785f7e7321dd
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2025-05-05 15:29:26.077
+1 _USER t0MOMYTQlsplYouNhVKy8mjPVbpvEqHwQaIuI/JtbUTqNQdVS5ASjf701KadbXGXYOiyuwnWi4GbOgUnADvM0Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 8216050
+2 _PID 24003891923
+2 _OID 1b4d7c3c-be2f-4c74-8475-6a06a6cccd56
+2 _USER An1TV+Rean5ke8dY6dX0MEAvwP+YlPV7WQgdhM+IVy9oqBhLPTUVGPP6cUxuFO9UomgPwRjYk4PBa4RHB0PCUA==
+3 _ENCR 1
+2 _DATE 2013-08-30 21:32:04.130
+1 _ORIG u
+1 _MSER
+2 _LKID 1b4d7c3c-be2f-4c74-8475-6a06a6cccd56
+1 _ATL N
+0 @S471143623@ SOUR
+1 TITL U.S., Public Records Index, 1950-1993, Volume 1
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Lehi, UT, USA
+1 _APID 1,1788::0
+1 REPO @R355895922@
+1 NOTE &lt;i&gt;Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings&lt;/i&gt;.
+0 @S471144727@ SOUR
+1 TITL U.S., Public Records Index, 1950-1993, Volume 2
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Lehi, UT, USA
+1 _APID 1,1732::0
+1 REPO @R355895922@
+1 NOTE &lt;i&gt;Voter Registration Lists, Public Record Filings, Historical Residential Records, and Other Household Database Listings&lt;/i&gt;.
+0 @S471144790@ SOUR
+1 TITL U.S., Newspapers.com™ Obituary Index, 1800s-current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2019
+2 PLAC Lehi, UT, USA
+1 _APID 1,61843::0
+1 REPO @R355895922@
+1 NOTE See newspaper information provided with each entry.
+0 @S471144800@ SOUR
+1 TITL U.S., Find a Grave® Index, 1600s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Lehi, UT, USA
+1 _APID 1,60525::0
+1 REPO @R355895922@
+1 NOTE &lt;i&gt;Find a Grave&lt;/i&gt;. Find a Grave®. http://www.findagrave.com/cgi-bin/fg.cgi.
+0 @R355895922@ REPO
+1 NAME Ancestry.com
+0 TRLR

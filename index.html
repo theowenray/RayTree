@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ray Family Tree</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Ray Lineage Explorer</p>
+        <h1>Family Tree</h1>
+        <p class="lede">Navigate generations, explore relationships, and get a quick picture of the Ray family using the GEDCOM export.</p>
+      </div>
+      <a class="ghost-button" href="data/ray-family-tree.ged" download>Download GEDCOM</a>
+    </header>
+
+    <main class="content">
+      <section class="tree-column">
+        <div id="statusMessage" class="status-banner">Loading family data…</div>
+
+        <article class="selected-card" id="selectedPerson">
+          <div class="placeholder">Select a family member to see details</div>
+        </article>
+
+        <section class="relation-groups">
+          <article class="relation-card">
+            <h3>Parents</h3>
+            <div class="card-grid" id="parentsList"></div>
+          </article>
+          <article class="relation-card">
+            <h3>Spouses</h3>
+            <div class="card-grid" id="spousesList"></div>
+          </article>
+          <article class="relation-card">
+            <h3>Children</h3>
+            <div class="card-grid" id="childrenList"></div>
+          </article>
+        </section>
+      </section>
+
+      <aside class="people-column">
+        <div class="list-header">
+          <div>
+            <p class="eyebrow">Family Members</p>
+            <h2>Browse &amp; Search</h2>
+          </div>
+          <label class="search-field">
+            <span class="sr-only">Search family members</span>
+            <input id="searchInput" type="search" placeholder="Search by name…" spellcheck="false" autocomplete="off">
+          </label>
+        </div>
+        <div class="people-list" id="peopleList"></div>
+      </aside>
+    </main>
+
+    <footer class="app-footer">
+      <p>Built with Codex · Data source: Ray Family Tree GEDCOM (Ancestry export)</p>
+    </footer>
+  </div>
+
+  <script src="script.js" type="module"></script>
+</body>
+</html>
